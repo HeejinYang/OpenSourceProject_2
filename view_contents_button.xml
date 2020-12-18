@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/contentsEditText"
+    android:layout_width="200sp"
+    android:layout_height="30dp"
+    android:gravity="top"
+    android:hint="인원수"
+    android:textSize="15sp"
+    android:textStyle="bold"
+    android:textColor="#F44336"
+    android:inputType="textMultiLine" />
